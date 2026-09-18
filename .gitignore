@@ -3,3 +3,6 @@
 .idea/
 _pycache_/
 *.pyc
+.idea/
+_pycache_/
+*.pyc
